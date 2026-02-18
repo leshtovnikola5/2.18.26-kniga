@@ -1,4 +1,3 @@
-
 # ----------- INITIAL BOOK DATABASE -----------
 books = [
     "The Hobbit",
